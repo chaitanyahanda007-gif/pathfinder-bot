@@ -1,0 +1,6 @@
+main.py
+requirements.txt
+Procfile
+templates/index.html
+static/script.js
+static/style.css
